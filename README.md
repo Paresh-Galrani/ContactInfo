@@ -4,7 +4,8 @@ Basically this project demonstrates use of angularjs along with typescript, webp
 
 ### Prerequisites
 
-Make sure you have latest version of node installed on your machine. This project was implemented using v8.9.4.
+Make sure you have latest version of node installed on your machine. <br />
+This project was implemented using v8.9.4. <br />
 You can check node version by running following on command prompt
 ```
 node -v
