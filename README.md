@@ -49,5 +49,5 @@ devServer: {
 
 ## Authors
 
-* **Paresh Galrani** - *Initial work* - [PurpleBooth](https://github.com/Paresh-Galrani)
+* **Paresh Galrani** - *Initial work* - [PareshGalrani](https://github.com/Paresh-Galrani)
 
