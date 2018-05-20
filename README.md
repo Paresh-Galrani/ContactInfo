@@ -22,12 +22,12 @@ Open command prompt and navigate to the folder where this code has been download
 ```
 Here you should be able to see package.json file
 
-Step 2
+Step 2 <br />
 Run the following command 
 ```
 npm install
 ```
-This command will create a folder named node modules and downloaded all the dependencies.
+This command will create a folder named node modules and downloaded all the dependencies. <br />
 This will take quite some time, till then sit back and relax.
 
 
@@ -38,7 +38,7 @@ To run this application. Execute following command
 ```
 npm run serve
 ```
-This will open your browser and run the application on 3002 port.
+This will open your browser and run the application on 3002 port. <br />
 To change the port you can navigate to webpack.config.js and change the port as follows
 ```
 devServer: {
