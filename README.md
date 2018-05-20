@@ -47,6 +47,14 @@ devServer: {
         port: 3002
     }
 ```
+## Creating a distributable package
+To create a distributable package. <br />
+Execute the following command:
+
+```
+npm run build
+```
+This will create dist folder which will consist of all the file required for deployment.
 
 ## Authors
 
